@@ -1,2 +1,3 @@
 # Trial-and-error
 Nothing imp ignore...
+This is just for my prac, if anyone seeing this, don't consider me an idiot.
